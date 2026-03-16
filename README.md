@@ -200,7 +200,7 @@ MIT License - 详见 [LICENSE](./LICENSE) 文件
 
 **Waylon**
 
-> 💡 **制作花絮**: 此工具由 Waylon 和 OpenClaw 协作完成，经过多次迭代优化。
+> 💡 此工具由 Waylon 和 OpenClaw（巨愚蠢的kimi） 协作完成，经过多次迭代优化，气的我肝颤。
 
 ---
 
